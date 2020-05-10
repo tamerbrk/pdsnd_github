@@ -306,7 +306,7 @@ def display_raw_data(df):
 
 def main():
     """ The main module. Gets the parameters/filters from user and executes the analysis modules
-    
+    It is also possible to list the raw data 
     Returns
     -------
     None.
