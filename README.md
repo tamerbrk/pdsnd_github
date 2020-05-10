@@ -5,7 +5,8 @@
 Bikeshare Application
 
 ### Description
-Describe what your project is about and what it does
+This application analysises the bike share information based in the filters
+provided by the user
 
 ### Files used
 Include the files used
