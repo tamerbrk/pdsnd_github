@@ -25,6 +25,7 @@ DAY_OF_WEEK = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday
 def read_yes_no_from_console(message):
     """
     Reads yes or no from console
+    It is possible to enter lower or upper case letters
     Args:
         (str) message - The message displayed while asking for input
     Returns:
